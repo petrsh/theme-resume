@@ -11,8 +11,8 @@ sections:
     content:
       username: admin
       button:
-        label: Download Résumé
-        url: uploads/resume.pdf
+        label: Download CV
+        url: uploads/Taus_CV.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -28,12 +28,12 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: awards
-    content:
-      title: Awards
-      username: admin
-  - block: languages
-    content:
-      title: Languages
-      username: admin
+#  - block: awards
+#    content:
+#      title: Awards
+#      username: admin
+#  - block: languages
+#    content:
+#      title: Languages
+#      username: admin
 ---
