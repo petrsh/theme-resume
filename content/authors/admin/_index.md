@@ -112,5 +112,5 @@ skills:
 #    percent: 25
 ---
 
-I am currently a Computational Biologist at Immunai, where I am a member of the external-facing scientific team, leveraging single cell multi-omics, data science, and ML to bridge the gap between causal immunology and translational biology.
+I currently work as a Computational Biologist in the external-facing scientific team at Immunai, leveraging single-cell multi-omics, data science, and ML to bridge the gap between causal immunology and translational biology.
 {style="text-align: justify; font-size: 0.8em;"}
